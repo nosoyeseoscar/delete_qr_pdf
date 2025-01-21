@@ -1,3 +1,5 @@
+// use the JS console in the meni Form > JavaScript > JavaScript Console.
+
 initial_page = 1
 end_page = 48
 
