@@ -16,7 +16,9 @@ for (var i = initial_page-1; i <= end_page; i++){
 
         fillColor: ["G", 0], // Relleno negro
 
-        strokeWidth: 0
+        strokeWidth: 0,
+
+         strokeColor: ["G", 0]
     
     });
 }
